@@ -1,5 +1,5 @@
 # ADG Domain Selections '25 Machine Learning Task
-# Titanic Survival Prediction 
+## Titanic Survival Prediction 
 This project predicts the survival of Titanic passengers using a Random Forest Classifier, and includes data analysis, visualizations, feature engineering and model tuning.
 
 ## Features
